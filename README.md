@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -12,4 +13,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chandan12-ui/DSA-TRACKING/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
